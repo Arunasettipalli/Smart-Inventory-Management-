@@ -139,7 +139,7 @@ During my internship period, I participated in multiple community-oriented activ
 <!-- add your photos below -->
 <!-- change url below with your image urls (inside  src='')-->
 
-- These are just placeholder (sample) images <!-- remove this line -->
+- Community Services Planting & Helping Senior Citizens <!-- remove this line -->
 
 <div align="center">
 <img src="https://github.com/Arunasettipalli/Smart-Inventory-Management-/blob/main/Planting.jpeg" alt="Community Service Photo 1" width="30%">
