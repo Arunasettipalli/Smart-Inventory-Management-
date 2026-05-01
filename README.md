@@ -142,8 +142,8 @@ During my internship period, I participated in multiple community-oriented activ
 - These are just placeholder (sample) images <!-- remove this line -->
 
 <div align="center">
-<img src="github.com/Arunasettipalli/Smart-Inventory-Management-/blob/main/Planting.jpeg" alt="Community Service Photo 1" width="30%">
-<img src="https://media.licdn.com/dms/image/v2/D561FAQEJNBia4UCa5w/feedshare-document-images_800/B56Zm5b6SJJkAg-/2/1759752731458?e=1766016000&v=beta&t=6RfJQWWqlQUPcCvDnQNW7kR6yf7w-wPDsIPxum409ck" alt="Community Service Photo 2" width="30%">
+<img src="https://github.com/Arunasettipalli/Smart-Inventory-Management-/blob/main/Planting.jpeg" alt="Community Service Photo 1" width="30%">
+<img src="https://github.com/Arunasettipalli/Smart-Inventory-Management-/blob/main/Serving.jpeg" alt="Community Service Photo 2" width="30%">
 
 </div>
 
