@@ -131,19 +131,6 @@ Bangalore
 - Offered personal assistance to elder citizens, strengthening community bonds.
 - Improved skills in communication, coordination, and social responsibility.
 
-### **Photos**
-
-<!-- add your photos below -->
-<!-- change url below with your image urls (inside  src='')-->
-
-- Community Services  <!-- remove this line -->
-
-<div align="center">
-<img src="https://github.com/user-attachments/assets/77bc2179-3488-4d63-b12d-feaf65463d3f" />
-" alt="Community Service - Planting" width="30%">
-<img src="https://github.com/user-attachments/assets/b1b8a3d9-caa6-4a5f-a3e8-2ea716feaeec" />
-" alt="Community Service Photo 2" width="30%">
-</div>
 
 ### **Photos**
 
