@@ -18,31 +18,31 @@
 
 <h2 style = "color:#333;"> Student Details </h2>
 <div align = "left" style ="margin: 20px; font-size: 16px;">
-    <p><strong>Name:</strong> <!--- Add your name---> </p>
-    <p><strong>Email ID:</strong> <!--- Add your mail id ---> </p>
-    <p><strong>College Name:</strong> <!--- Add your college name---> </p>
-    <p><strong>Branch/Specialization :</strong> <!--- Add your branch name---> </p>
-    <p><strong>College ID:</strong> <!--- Add your college ID---> </p>
+    <p><strong>Name:</strong> Settipalli Aruna </p>
+    <p><strong>Email ID:</strong> arunareddy3144@gmail.com </p>
+    <p><strong>College Name:</strong> Chaitanya Bharathi Institute of Technology </p>
+    <p><strong>Branch/Specialization :</strong> CSE(AI) </p>
+    <p><strong>College ID:</strong> 222P1A3144 </p>
 </div>
 
 <hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
 
 <h2 style="color:#333;"> Course Details </h2>
 <div align="left" style="margin: 20px; font-size: 16px;">
-    <p><strong>Course Opted:</strong> <!--- Add your course name---> </p>
-    <p><strong>Instructor Name:</strong> <!--- Add your instructor name---> </p>
+    <p><strong>Course Opted:</strong> Full Stack Web Development </p>
+    <p><strong>Instructor Name:</strong> Akshara Mam </p>
 </div>
 <div align="left" style="margin: 20px; font-size: 16px;">
-    <p><strong>Duration:</strong> <!--- Durations in months---> </p>
+    <p><strong>Duration:</strong> 6 Months </p>
 
 <hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
 
 <h2 style="color:#333;"> Trainer Details </h2>
 <div align="left" style="margin: 20px; font-size: 16px;">
 
-<p><strong>Trainer Name:</strong> <!–– Add trainer name ––></p>
-<p><strong>Trainer Email ID:</strong> <!–– Add trainer email ––></p>
-<p><strong>Trainer Designation:</strong> <!–– Add designation along with company––></p>
+<p><strong>Trainer Name:</strong> Akshara </p>
+<p><strong>Trainer Email ID:</strong> akshararajan26@gmail.com </p>
+<p><strong>Trainer Designation:</strong> Software Developer at Propel Technology </p>
 
 <hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
 
@@ -63,33 +63,27 @@
 
 ## Overall Learning 
 
-> _This is a placeholder. Replace the text below with your personal learning summary._
-During this course, I learned the fundamentals of web development and project design.
-I gained hands-on experience with HTML, CSS, JavaScript and strengthened my skills in 
-problem-solving, teamwork, documentation, and delivering real-world project solutions.
+During this course, I built a Smart Supply Chain & Inventory Management Platform using Java, REST APIs, and PostgreSQL. I gained hands-on experience in backend development, API testing with Postman, and database integration. I also improved my problem-solving skills and understanding of real-world system design.
 
 
 <h2 style="color:#333;"> Projects Completed </h2>
 <div align="left" style="margin: 20px; font-size: 16px;">
 
-<p><strong><a href="#project1">Project 1:</a></strong> &lt;!-- Add project title → --&gt;</p>
-
-<p><strong><a href="#project2">Project 2:</a></strong> &lt;!-- Add project title → --&gt;</p>
-
-<p><strong><a href="#project3">Project 3:</a></strong> &lt;!-- Add project title → --&gt;</p>
-
-<p><em>(You can add more projects as needed)</em></p>
+<p><strong><a href="#project1">Project 1:</a></strong> Smart Inventory Management </p>
 
 </div>
 
 <!-- Project 1 -->
-<h3 id="project1">Project 1: <!-- Add Project Title --></h3>
+<h3 id="project1">Project 1: Smart Inventory Management </h3>
 <p>
-  This project involved designing and developing a basic functional module using the core concepts taught in the course.
-  It focused on understanding requirements, creating structured code, and implementing key features.
+ The Smart Supply Chain & Inventory Management Platform is designed to streamline inventory tracking and supply chain operations in a structured and efficient way. From my perspective, the project focuses on solving real-world problems like stock mismanagement, delayed order tracking, and lack of centralized data.
+
+In this project, I implemented backend functionalities using Java and REST APIs, integrated PostgreSQL for data storage, and tested the system using Postman. The platform allows managing inventory levels, tracking orders, and maintaining supplier-related data effectively.
+
+Working on this project helped me understand how real-world backend systems are designed, how data flows between components, and how scalable solutions can be built to handle business operations efficiently.
 </p>
 <p>
-  <a href="https://github.com/Arunasettipalli/Smart-Inventory-Management-/blob/main/SmartSupplyChain_FinalReport.pdf" target="_blank"><strong>→ View Full Project Report</strong></a>
+  <a href="https://github.com/sure-trust/SETTIPALLI-ARUNA-g30-fsd/blob/cef3f28a1a0d763dd776f34438e5beaa6e782d3b/Course%20report/SmartSupplyChain_FinalReport.pdf" target="_blank"><strong>→ View Full Project Report</strong></a>
 </p>
 
 <hr style="height:1px; border-top:1px solid #ccc; width:80%;" />
@@ -97,42 +91,59 @@ problem-solving, teamwork, documentation, and delivering real-world project solu
 
 ## **References**
 
-- [Wikipedia](https://wikipedia.com)
-<!--you can add refrences over here in same syntax as above -->
----
+Official Java Documentation – https://docs.oracle.com/javase/8/docs/
+Spring Boot Documentation – https://spring.io/projects/spring-boot
+PostgreSQL Documentation – https://www.postgresql.org/docs/
+Postman Learning Center – https://learning.postman.com/
+REST API Design Guide – https://restfulapi.net/
+GeeksforGeeks (Concepts & Examples) – https://www.geeksforgeeks.org/
 
 
 ## **Learnings from LST and SST**
 
-<!-- add your experiences over here -->
-> _This is a placeholder. Replace the text below with your personal learning from LST and SST sessions summary._
-LST and SST sessions helped me....
----
+Through Life Skills Training (LST) and Soft Skills Training (SST), I developed essential skills beyond technical knowledge. I improved my communication skills, teamwork, and ability to express ideas clearly in group discussions and presentations.
+
+I learned the importance of time management, adaptability, and maintaining a positive attitude while working under pressure. These sessions also helped me build confidence, enhance my problem-solving approach, and understand professional behavior in a workplace environment.
+
+Overall, LST and SST played a key role in shaping my personality and preparing me for real-world challenges in both personal and professional life.
 
 ## **Community Services**
 
-<!-- add descreption in your own words -->
+As part of community service, I actively participated in serving senior citizens by distributing food and essential items. This experience helped me understand the importance of empathy, respect, and social responsibility towards the elderly.
 
-During my internship period, I participated in multiple community-oriented activities .....<!-- add descreption in your own words -->
+I was also involved in planting saplings, which created awareness about environmental sustainability and the importance of contributing to a greener future.
+
+Overall, these activities helped me develop a sense of responsibility, compassion, and the value of giving back to society.
 
 ### **Activities Involved**
-<!-- add the location where you given -->
-- **Blood Donation** – Donated blood and supported basic assistance tasks during the camp.
   
- <!-- add the location where you have panted -->
+Bangalore
 - **Tree Plantation Drive** – Participated by planting trees and contributing to environmental improvement.
 
-  <!-- add the location where you helped -->
+Bangalore
 - **Helping Elder Citizens** – Assisted two elderly individuals with simple daily tasks and provided support where needed. 
 
 <!-- you can write impacts according to your experience in your words-->
 
 ### **Impact / Contribution**
-
-- Helped create a supportive environment during the blood donation camp. <!-- add the location where you given -->
+ <!-- add the location where you given -->
 - Actively participated in promoting a greener and cleaner surroundings.
 - Offered personal assistance to elder citizens, strengthening community bonds.
 - Improved skills in communication, coordination, and social responsibility.
+
+### **Photos**
+
+<!-- add your photos below -->
+<!-- change url below with your image urls (inside  src='')-->
+
+- Community Services  <!-- remove this line -->
+
+<div align="center">
+<img src="https://github.com/user-attachments/assets/77bc2179-3488-4d63-b12d-feaf65463d3f" />
+" alt="Community Service - Planting" width="30%">
+<img src="https://github.com/user-attachments/assets/b1b8a3d9-caa6-4a5f-a3e8-2ea716feaeec" />
+" alt="Community Service Photo 2" width="30%">
+</div>
 
 ### **Photos**
 
